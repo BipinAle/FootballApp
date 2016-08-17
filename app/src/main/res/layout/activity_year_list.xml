@@ -3,11 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".activities.LeagueActivity">
-
+    tools:context="com.example.bipin.footballapp.activities.YearListActivity">
 <android.support.v7.widget.RecyclerView
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:id="@+id/leagueRv"/>
-
+    android:id="@+id/yearlistRv"
+    />
 </LinearLayout>
